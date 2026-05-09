@@ -1,2 +1,25 @@
-# ecosistema-lagiustasoluzione-multiservizi
-Piattaforma digitale multiservizi per la casa nella Piana di Sant’Eufemia. Ecosistema territoriale dedicato a servizi modulari di ristrutturazione, miglioramento abitativo e gestione rete artigiani, con catalogo servizi, configuratori semplici, acquisizione clienti e organizzazione operativa digitale.
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.16",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "lucide-react": "^0.468.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "@types/node": "^22.9.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.14",
+    "postcss": "^8.4.47",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "14.2.16"
+  }
+}

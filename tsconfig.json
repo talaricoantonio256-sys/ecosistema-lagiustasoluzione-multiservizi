@@ -1,0 +1,35 @@
+# Ecosistema LaGiustaSoluzione Multiservizi
+
+Piattaforma digitale multiservizi per la casa nella Piana di Sant’Eufemia.
+
+## Obiettivo
+
+Creare un ecosistema territoriale per servizi modulari di ristrutturazione, miglioramento abitativo e gestione rete artigiani.
+
+## Stack
+
+- Next.js App Router
+- TypeScript
+- Tailwind CSS
+- Vercel
+
+## Servizi iniziali
+
+- Bagno chiavi in mano
+- Porte interne
+- Parquet galleggiante
+- Box doccia
+- Lucernai
+- Tinteggiatura
+- Pavimenti
+
+## Avvio locale
+
+```bash
+npm install
+npm run dev
+```
+
+## Deploy
+
+Il progetto è pronto per Vercel.
